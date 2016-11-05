@@ -1,1 +1,11 @@
 .DS_Store
+
+javascripts/*.js
+javascripts/*.map
+javascripts/components/*.js
+javascripts/components/*.map
+javascripts/views/*.js
+javascripts/views/*.map
+
+stylesheets/*.css
+stylesheets/*.map
